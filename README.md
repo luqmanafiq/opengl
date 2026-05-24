@@ -1,4 +1,4 @@
-# LuqRenderer
+# Renderer
 
 A real-time 3D rendering engine built in **C++20 and OpenGL 3.3 Core Profile**.
 
@@ -27,7 +27,7 @@ A real-time 3D rendering engine built in **C++20 and OpenGL 3.3 Core Profile**.
 ## Architecture
 
 ```
-LuqRenderer/
+Renderer/
 ├── src/
 │   ├── main.cpp        — Window, input, scene setup, render loop
 │   ├── Shader.h/cpp    — GLSL shader program wrapper
